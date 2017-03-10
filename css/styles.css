@@ -1,0 +1,107 @@
+/*=======UNIVERSALS=======*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Satisfy');
+
+p {
+  font-size: 16px;
+  font-family: 'open sans', 300;
+}
+
+a {
+  font-family: 'open sans', 400;
+}
+
+.style {
+  font-size: 20px;
+  border: none;
+  font-family: 'open sans', 700;
+  margin-top: 40px;
+}
+
+.blue {
+  color: #63AEE6;
+}
+
+/*========HEADER========*/
+#header-logo {
+  width: 90px;
+}
+
+.nav-tabs{
+  border: none;
+}
+
+#logo-style {
+  font-family: satisfy, cursive;
+  color: #ff827b;
+  margin-top: 18px;
+}
+
+.flex-wrapper {
+  display: flex;
+  align-items: flex-end;
+}
+
+/*========HERO========*/
+.jumbotron {
+  height: 450px;
+  color: #fff;
+  background-image: url('../img/hero.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.jumbotron h2 {
+  font-family: 'open sans', sans-serif;
+}
+
+/*======THUMBNAILS======*/
+.content {
+  padding-bottom: 50px;
+}
+
+.thumb-background {
+  background-color: #eee;
+  border-radius: 5%;
+  margin-left: 3px;
+}
+
+.thumb-background img {
+  margin: 10px 0px;
+}
+
+.caption button{
+  margin-bottom: 10px;
+}
+
+/*=======FOOTER=======*/
+footer {
+  background-color: #231f20;
+  padding-top: 20px;
+}
+
+.no-padding {
+  margin: 0;
+}
+
+footer a, footer {
+  text-decoration: none;
+  color: #bfc0c1
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.right-border {
+  border-right: 1px solid #333;
+}
+
+#footer-logo {
+  height: 80px;
+  padding-left: 65px;
+}
+
+#copyright {
+  color: #474646;
+}
