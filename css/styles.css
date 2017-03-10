@@ -3,17 +3,17 @@
 
 p {
   font-size: 16px;
-  font-family: 'open sans', 300;
+  font-family: 'Open Sans', 300;
 }
 
 a {
-  font-family: 'open sans', 400;
+  font-family: 'Open Sans', 400;
 }
 
 .style {
   font-size: 20px;
   border: none;
-  font-family: 'open sans', 700;
+  font-family: 'Open Sans', 700;
   margin-top: 40px;
 }
 
@@ -31,7 +31,7 @@ a {
 }
 
 #logo-style {
-  font-family: satisfy, cursive;
+  font-family: 'Satisfy', cursive;
   color: #ff827b;
   margin-top: 18px;
 }
@@ -51,7 +51,7 @@ a {
 }
 
 .jumbotron h2 {
-  font-family: 'open sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 /*======THUMBNAILS======*/
